@@ -1,2 +1,2 @@
-# Starting_with_git_kaggle_house-prediction
+# Tatnic_classification
 my 1st repo on github

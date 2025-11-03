@@ -1,6 +1,6 @@
 # 🛳️ Titanic - Machine Learning from Disaster
 
-Ts project is part of the **Kaggle Titanic: Machine Learning from Disaster** competition. It aims to predict whether a passenger survived or not based on features such as age, sex, class, and more. It is one of the most popular beginner-friendly projects for understanding data cleaning, feature engineering, and classification models.
+T project is part of the **Kaggle Titanic: Machine Learning from Disaster** competition. It aims to predict whether a passenger survived or not based on features such as age, sex, class, and more. It is one of the most popular beginner-friendly projects for understanding data cleaning, feature engineering, and classification models.
 
 ---
 

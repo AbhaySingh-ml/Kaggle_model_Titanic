@@ -60,7 +60,7 @@ This project is part of the **Kaggle Titanic: Machine Learning from Disaster** c
 - Try ensemble models like XGBoost or LightGBM
 - Perform more advanced hyperparameter tuning
 - Use feature selection techniques
-- Visualize feature importance in more dept
+- Visualize feature importance in more dep
 
 ---
 
